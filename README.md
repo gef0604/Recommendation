@@ -1,5 +1,5 @@
 # Jaba Web Development - Events Search and Recommendations
-This project allows users to search events, and get recommendations based on their preferences and geographical locations. Events data is fetched from ticketmaster.com by calling api provided by the website. Users can explore the events nearby, add some events to their favorite, and get recommendations.
+This project allows users to search events, and get recommendations based on their preferences and geographical locations. Events data is fetched from ticketmaster.com by calling api provided by the website. Users can explore the events nearby, add some events to their favorite, and get recommendations. Used RESTFUL APIS to handle http requests.
 - Events Nearby
 
 ![nearby](https://github.com/gef0604/Recommendation/blob/master/image/nearby.png)
